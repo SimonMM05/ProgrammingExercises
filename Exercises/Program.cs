@@ -92,7 +92,7 @@ while (i <= 10)
 /* Data Type Exercises:
 ______________________*/
 
-// Data Type Exercise 1
+/* Data Type Exercise 1
 
 char letter1, letter2, letter3;
 
@@ -106,3 +106,6 @@ Console.WriteLine("Input another letter");
 letter3 = Convert.ToChar(Console.ReadLine());
 
 Console.WriteLine("{0} {1} {2}",letter3,letter2,letter1);
+*/
+
+// Data Type Exercise 4;
