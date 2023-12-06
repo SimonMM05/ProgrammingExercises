@@ -12,3 +12,17 @@ C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Pr
 C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\ProgrammingExercises\obj\Debug\net7.0\ProgrammingExercises.pdb
 C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\ProgrammingExercises\obj\Debug\net7.0\ProgrammingExercises.genruntimeconfig.cache
 C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\ProgrammingExercises\obj\Debug\net7.0\ref\ProgrammingExercises.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.exe
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.deps.json
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.runtimeconfig.json
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.pdb
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.AssemblyInfoInputs.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.AssemblyInfo.cs
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.csproj.CoreCompileInputs.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\refint\ProgrammingExercises.dll
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.pdb
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.genruntimeconfig.cache
+C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ref\ProgrammingExercises.dll
