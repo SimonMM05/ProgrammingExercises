@@ -73,7 +73,7 @@ if (num1 == 25)
         Console.WriteLine(addition + " " + " " + subtraction+  " " + " " + multiplication + " " + " " + division);
     }
 }
-*/ 
+*/
 
 /* Basic Exercise 8
 Console.WriteLine("Input a number");
@@ -109,3 +109,83 @@ Console.WriteLine("{0} {1} {2}",letter3,letter2,letter1);
 */
 
 // Data Type Exercise 4;
+
+/*
+int number1, number2, Result = 0;
+char userInput;
+
+Console.WriteLine("Input a number");
+number1 = Convert.ToInt32(Console.ReadLine());
+
+if (number1 > 0 )
+{
+    Console.WriteLine("Input another number");
+    number2 = Convert.ToInt32(Console.ReadLine());
+
+    if (number2 > 0)
+    {
+        Console.WriteLine("Input either *, /, - or + to multiply, divide, subtract, or add the numbers together");
+        userInput = Convert.ToChar(Console.ReadLine());
+        
+        if (userInput == '*' || userInput == '/' || userInput == '-' || userInput == '+')
+        {
+            switch (userInput)
+            {
+                case '*':
+                    Result = number1 * number2;
+                    break;
+                case '/':
+                    Result = number1 / number2;
+                    break;
+                case '-':
+                    Result = number1 - number2;
+                    break;
+                case '+':
+                    Result = number1 + number2;
+                    break;
+                default:
+                    Result = 0;
+                    break;
+            }
+
+            Console.WriteLine($"Result of the operation is: {number1} {userInput} {number2} = {Result}");
+        }
+        else
+        {
+            Console.WriteLine("Invalid operation. Please enter *, /, - or +.");
+        }
+    }
+    else
+    {
+        Console.WriteLine("Invalid second number. Please input a number greater than 0.");
+    }
+}
+else
+{
+    Console.WriteLine("Invalid first number. Please input a number greater than 0.");
+}
+*/
+
+/* Data Type Exercise 5
+
+float radius, area, perimeter;
+
+Console.WriteLine("Input the radius of a circle");
+radius = Convert.ToSingle(Console.ReadLine());
+
+area = (float)(Math.PI * Math.Pow(radius, 2));
+perimeter = (float)(Math.PI * radius * 2);
+
+    if (radius > 0)
+    {
+        area = (float)Math.Round(area, 2);
+        perimeter = (float)Math.Round(perimeter, 2);
+
+        Console.WriteLine("The perimeter of the circle is: " + perimeter);
+        Console.WriteLine("The area of the circle is: " + area);
+    }
+else
+{
+    Console.WriteLine("Invalid radius. Please input a positive number.");
+}
+*/
