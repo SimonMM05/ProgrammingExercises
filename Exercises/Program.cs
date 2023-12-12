@@ -189,3 +189,29 @@ else
     Console.WriteLine("Invalid radius. Please input a positive number.");
 }
 */
+
+// Data Type Exercise 7
+
+float distance, hours, minutes, seconds;
+float timeSec, mps, kph, mph;
+
+Console.WriteLine("Input a distance in meters");
+distance = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Input the time in hours e.g. 1");
+hours = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Input the time in minutes e.g. 35");
+minutes = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Input the time in seconds e.g. 59");
+seconds = Convert.ToInt32(Console.ReadLine());
+
+timeSec = (hours*3600) + (minutes*60);
+mps = (distance/timeSec);
+kph = (distance/1000f)/(timeSec/3600f);
+mph = (kph/1.609f);
+
+Console.WriteLine("Your speed in meters/sec is: " + mps);
+Console.WriteLine("Your speed in km/h is: " + kph);
+Console.WriteLine("Your speed in miles/h is: " + mph);
