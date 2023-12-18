@@ -190,7 +190,7 @@ else
 }
 */
 
-// Data Type Exercise 7
+/* Data Type Exercise 7
 
 float distance, hours, minutes, seconds;
 float timeSec, mps, kph, mph;
@@ -215,3 +215,4 @@ mph = (kph/1.609f);
 Console.WriteLine("Your speed in meters/sec is: " + mps);
 Console.WriteLine("Your speed in km/h is: " + kph);
 Console.WriteLine("Your speed in miles/h is: " + mph);
+*/
