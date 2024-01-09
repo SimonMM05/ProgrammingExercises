@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammingExercises", "ProgrammingExercises.csproj", "{7EA35283-BEAD-46C4-88D9-EDE195B3A639}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainTwister", "BrainTwister\BrainTwister.csproj", "{D5A36A54-4035-488F-B980-E778F9CACC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainTwisterPresentation", "..\BrainTwisterPresentation\BrainTwisterPresentation.csproj", "{05C9B7F2-7664-4856-A937-7CB948D97B51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7EA35283-BEAD-46C4-88D9-EDE195B3A639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EA35283-BEAD-46C4-88D9-EDE195B3A639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EA35283-BEAD-46C4-88D9-EDE195B3A639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A36A54-4035-488F-B980-E778F9CACC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A36A54-4035-488F-B980-E778F9CACC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A36A54-4035-488F-B980-E778F9CACC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A36A54-4035-488F-B980-E778F9CACC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\bin\Debug\net7.0\BrainTwisterPresentation.exe
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\bin\Debug\net7.0\BrainTwisterPresentation.deps.json
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\bin\Debug\net7.0\BrainTwisterPresentation.runtimeconfig.json
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\bin\Debug\net7.0\BrainTwisterPresentation.dll
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\bin\Debug\net7.0\BrainTwisterPresentation.pdb
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.AssemblyInfoInputs.cache
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.AssemblyInfo.cs
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.csproj.CoreCompileInputs.cache
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.dll
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\refint\BrainTwisterPresentation.dll
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.pdb
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\BrainTwisterPresentation.genruntimeconfig.cache
+c:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\BrainTwisterPresentation\obj\Debug\net7.0\ref\BrainTwisterPresentation.dll
