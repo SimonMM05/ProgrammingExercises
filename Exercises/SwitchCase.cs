@@ -50,7 +50,7 @@ class SwitchCase
 }
 */
 
-// Conditional statement exercise 2
+/* Conditional statement exercise 2
 
 using System;
 
@@ -98,3 +98,4 @@ class SwitchCase
         Console.ReadLine();
     }
 }
+*/

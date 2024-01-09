@@ -215,4 +215,30 @@ mph = (kph/1.609f);
 Console.WriteLine("Your speed in meters/sec is: " + mps);
 Console.WriteLine("Your speed in km/h is: " + kph);
 Console.WriteLine("Your speed in miles/h is: " + mph);
+
+class SwitchCase
+{
+    static void Main()
+    {
+        float y = 5.2f;
+        switch (y)
+        {
+            case 4:
+                {
+                    Console.WriteLine("y is 4");
+                }
+                break;
+            case 5.3f:
+                {
+                    Console.WriteLine("y is 5.3");
+                    break;
+                }
+            default:
+                {
+                    Console.WriteLine("a case for y is defined");
+                }
+                break;
+        }
+    }
+}
 */
