@@ -1,34 +1,19 @@
-﻿using System;
+﻿Console.WriteLine("Input a number");
+int input = Convert.ToInt32(Console.ReadLine());
 
-class BrainTwister
+int result = 0;
+
+for (int i = 1; i <= input; i++)
 {
-    static void Main()
+    if (i % 2 == 0)
     {
-        Console.WriteLine("Indtast et tal:");
-        int input = Convert.ToInt32(Console.ReadLine());
-
-        int result = Output(input);
-
-        Console.WriteLine($"Outputtet er: {result}");
-        Console.ReadLine();
+        result += i;
     }
-
-    static int Output(int n)
+    else
     {
-        int result = 0;
-
-        for (int i = 1; i <= n; i++)
-        {
-            if (i % 2 == 0)
-            {
-                result += i;
-            }
-            else
-            {
-                result -= i;
-            }
-        }
-
-        return result;
+        result -= i;
     }
 }
+
+Console.WriteLine($"The output is: {result}");
+Console.ReadLine();
