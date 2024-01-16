@@ -73,7 +73,7 @@ class ForLoops
 }
 */
 
-// For loop exercise 6
+/* For loop exercise 6
 
 using System;
 
@@ -92,3 +92,5 @@ class ForLoops
         Console.ReadLine();
     }
 }
+*/
+
