@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj": {}
+    "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj": {
+    "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj",
+        "projectUniqueName": "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj",
         "projectName": "ProgrammingExercises",
-        "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj",
+        "projectPath": "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\Exercises\\obj\\",
+        "outputPath": "D:\\Programming\\ProgrammingExercises\\Exercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"

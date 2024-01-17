@@ -26,3 +26,17 @@ C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Ex
 C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.pdb
 C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.genruntimeconfig.cache
 C:\Users\simon\Downloads\HTX\Studieretning\Programmering\ProgrammingExercises\Exercises\obj\Debug\net7.0\ref\ProgrammingExercises.dll
+D:\Programming\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.exe
+D:\Programming\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.deps.json
+D:\Programming\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.runtimeconfig.json
+D:\Programming\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.dll
+D:\Programming\ProgrammingExercises\Exercises\bin\Debug\net7.0\ProgrammingExercises.pdb
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.AssemblyInfoInputs.cache
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.AssemblyInfo.cs
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.csproj.CoreCompileInputs.cache
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.dll
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\refint\ProgrammingExercises.dll
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.pdb
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ProgrammingExercises.genruntimeconfig.cache
+D:\Programming\ProgrammingExercises\Exercises\obj\Debug\net7.0\ref\ProgrammingExercises.dll

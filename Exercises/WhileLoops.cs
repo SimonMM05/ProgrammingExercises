@@ -186,6 +186,7 @@ class WhileLoops
 }
 */
 
+/* PP While loop difficult task 1: Collatz Conjecture 
 using System;
 
 class WhileLoops
@@ -218,3 +219,4 @@ class WhileLoops
         Console.WriteLine($"The Collatz conjecture took {steps} steps to reach 1.");
     }
 }
+*/
