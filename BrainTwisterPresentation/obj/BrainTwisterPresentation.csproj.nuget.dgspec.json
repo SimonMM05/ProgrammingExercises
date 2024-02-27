@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj": {}
+    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj": {
+    "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
+        "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
         "projectName": "BrainTwisterPresentation",
-        "projectPath": "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
+        "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\obj\\",
+        "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
