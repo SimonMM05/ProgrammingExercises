@@ -29,7 +29,7 @@ class Arrays
 }
 */
 
-/* Arrays exercise 1
+// Arrays exercise 1
 
 using System;
 
@@ -54,7 +54,7 @@ class Arrays
         }
     }
 }
-*/
+
 
 /* Arrays exercise 2
 

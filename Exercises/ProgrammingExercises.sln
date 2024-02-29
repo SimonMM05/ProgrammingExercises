@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgrammingExercises", "Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrainTwisterPresentation", "..\BrainTwisterPresentation\BrainTwisterPresentation.csproj", "{05C9B7F2-7664-4856-A937-7CB948D97B51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "..\OOP\OOP.csproj", "{330D31C4-443A-4211-B67F-FFBFC16B9A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{81223A7A-54AE-4ACD-88FC-333146D3CD27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C9B7F2-7664-4856-A937-7CB948D97B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330D31C4-443A-4211-B67F-FFBFC16B9A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330D31C4-443A-4211-B67F-FFBFC16B9A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330D31C4-443A-4211-B67F-FFBFC16B9A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330D31C4-443A-4211-B67F-FFBFC16B9A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81223A7A-54AE-4ACD-88FC-333146D3CD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81223A7A-54AE-4ACD-88FC-333146D3CD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81223A7A-54AE-4ACD-88FC-333146D3CD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81223A7A-54AE-4ACD-88FC-333146D3CD27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

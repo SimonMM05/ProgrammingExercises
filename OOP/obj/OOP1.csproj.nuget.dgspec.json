@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj": {}
+    "D:\\Programming\\ProgrammingExercises\\OOP1\\OOP1.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj": {
+    "D:\\Programming\\ProgrammingExercises\\OOP1\\OOP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj",
-        "projectName": "ProgrammingExercises",
-        "projectPath": "D:\\Programming\\ProgrammingExercises\\Exercises\\ProgrammingExercises.csproj",
+        "projectUniqueName": "D:\\Programming\\ProgrammingExercises\\OOP1\\OOP1.csproj",
+        "projectName": "OOP1",
+        "projectPath": "D:\\Programming\\ProgrammingExercises\\OOP1\\OOP1.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\ProgrammingExercises\\Exercises\\obj\\",
+        "outputPath": "D:\\Programming\\ProgrammingExercises\\OOP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
