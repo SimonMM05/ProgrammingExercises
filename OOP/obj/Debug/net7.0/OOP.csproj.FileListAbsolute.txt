@@ -1,0 +1,14 @@
+D:\Programming\ProgrammingExercises\OOP\bin\Debug\net7.0\OOP.exe
+D:\Programming\ProgrammingExercises\OOP\bin\Debug\net7.0\OOP.deps.json
+D:\Programming\ProgrammingExercises\OOP\bin\Debug\net7.0\OOP.runtimeconfig.json
+D:\Programming\ProgrammingExercises\OOP\bin\Debug\net7.0\OOP.dll
+D:\Programming\ProgrammingExercises\OOP\bin\Debug\net7.0\OOP.pdb
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.AssemblyInfoInputs.cache
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.AssemblyInfo.cs
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.csproj.CoreCompileInputs.cache
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.dll
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\refint\OOP.dll
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.pdb
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\OOP.genruntimeconfig.cache
+D:\Programming\ProgrammingExercises\OOP\obj\Debug\net7.0\ref\OOP.dll
