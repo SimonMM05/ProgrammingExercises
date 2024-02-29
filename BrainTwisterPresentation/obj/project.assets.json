@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
+      "projectUniqueName": "c:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
       "projectName": "BrainTwisterPresentation",
-      "projectPath": "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
+      "projectPath": "c:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ProgrammingExercises\\BrainTwisterPresentation\\obj\\",
+      "outputPath": "c:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"
