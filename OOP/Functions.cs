@@ -19,6 +19,8 @@ class Functions
         welcome();
 
         haveAgood();
+
+        Console.WriteLine("");
     }
 
 }
