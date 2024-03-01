@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "c:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
-      "projectName": "BrainTwisterPresentation",
-      "projectPath": "c:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
+      "projectUniqueName": "D:\\Programming\\ProgrammingExercises\\OOP\\OOP.csproj",
+      "projectName": "OOP",
+      "projectPath": "D:\\Programming\\ProgrammingExercises\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
-      "projectName": "BrainTwisterPresentation",
-      "projectPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\BrainTwisterPresentation.csproj",
-      "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\Downloads\\HTX\\Studieretning\\Programmering\\ProgrammingExercises\\BrainTwisterPresentation\\obj\\",
->>>>>>> parent of 54d8c29 (OOP)
+      "outputPath": "D:\\Programming\\ProgrammingExercises\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -185,7 +185,11 @@ class WhileLoops
     }
 }
 */
+<<<<<<< HEAD
 /*
+=======
+
+>>>>>>> origin/main
 using System;
 
 class WhileLoops
@@ -218,4 +222,3 @@ class WhileLoops
         Console.WriteLine($"The Collatz conjecture took {steps} steps to reach 1.");
     }
 }
-*/
