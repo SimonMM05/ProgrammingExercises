@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Input a number");
+﻿/* Console.WriteLine("Input a number");
 int input = Convert.ToInt32(Console.ReadLine());
 
 int result = 0;
@@ -18,19 +18,6 @@ for (int i = 1; i <= input; i++)
 Console.WriteLine($"The output is: {result}");
 Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
-
-
-/*
 Koden tager alle tal til og med det tal som du inputer og enten pluser med værdien hvis det er et lige tal
 eller minusser med værdien af tallet hvis det er et ulige tal.
 

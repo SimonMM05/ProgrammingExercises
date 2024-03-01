@@ -37,7 +37,7 @@ class Arrays
 {
     static void Main()
     {
-        Console.WriteLine("This program stores and prints numbers 10 numbers in an array");
+        Console.WriteLine("This program stores and prints 10 numbers in an array");
 
         int[] numbers = new int[10];
 
