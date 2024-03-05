@@ -135,7 +135,6 @@ class Arrays
     {
         Console.WriteLine("This program copies the elements of one array into another.");
 
-
         Console.Write("Input the length of the first array: ");
         int length = Convert.ToInt32(Console.ReadLine());
 

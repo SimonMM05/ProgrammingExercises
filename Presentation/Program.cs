@@ -1,4 +1,4 @@
-﻿// Deklaration og initialisering af en tom array med fem elementer
+﻿/* Deklaration og initialisering af en tom array med fem elementer
 int[] numbers = new int[5];
 
 // Deklaration og initialisering af en array med værdier
@@ -26,4 +26,5 @@ foreach (int numberrr in numberr)
 {
     Console.WriteLine(numberrr);
 }
+*/
 

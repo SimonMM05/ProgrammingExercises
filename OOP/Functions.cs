@@ -175,6 +175,7 @@ class Function
 */
 
 // Function exercise 6
+
 using System;
 
 class Functions
