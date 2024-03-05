@@ -29,8 +29,7 @@ class Arrays
 }
 */
 
-/* Arrays exercise 1
-
+/* Arrays exercise 1 - Write a C# Sharp program that stores elements in an array and prints them. 
 using System;
 
 class Arrays
@@ -50,12 +49,11 @@ class Arrays
 
         for (int i = 0; i < numbers.Length; i++)
         {
-            Console.WriteLine($"Element {i}: {numbers[i]}");
+            Console.WriteLine($"Element - {i} : {numbers[i]}");
         }
     }
 }
 */
-
 /* Arrays exercise 2
 
 using System;

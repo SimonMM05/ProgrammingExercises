@@ -26,7 +26,7 @@ class Functions
 }
 */
 
-/* Function exercise 2
+/* Function exercise 3
 using System;
 
 class Functions
@@ -62,7 +62,7 @@ class Functions
 }
 */
 
-/* Function exercise 3
+/* Function exercise 4
 
 using System;
 
@@ -100,7 +100,7 @@ class Functions
 */
 
 
-/* Function exercise 4
+/* Function exercise 5
 
 using System;
 
@@ -132,7 +132,7 @@ class Functions
 }
 */
 
-/* Function exercise 5
+/* Function exercise 6
 using System;
 
 class Function
@@ -174,7 +174,7 @@ class Function
 }
 */
 
-// Function exercise 6
+/* Function exercise 7
 
 using System;
 
@@ -191,6 +191,7 @@ class Functions
     }
 
 }
+*/
 
 /* Function exercise x
 using System;

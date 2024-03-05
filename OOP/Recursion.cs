@@ -1,0 +1,86 @@
+
+/* Recursion exercise 1
+using System;
+
+class Recursions
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a number to print that many numbers.");
+        int number = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("The numbers are: ");
+        PrintNumbers(1, number);
+    }
+
+    static void PrintNumbers(int result, int number)
+    {
+        if (result < number)
+        {
+            Console.Write(result + " ");
+            PrintNumbers(result + 1, number);
+        }
+        else if (result == number)
+        {
+            Console.Write(result + ".");
+        }
+    }
+}
+*/
+
+/* Recursion exercise 2
+
+using System;
+
+class Recursion
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a number to print that many numbers.");
+        int number = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("The numbers are: ");
+        PrintNumbers(number);
+    }
+
+    static void PrintNumbers(int number)
+    {
+        if (number > 1)
+        {
+            Console.Write(number + " ");
+            PrintNumbers(number - 1);
+        }
+        else if (number == 1)
+        {
+            Console.Write(number + ".");
+        }
+    }
+}
+*/
+
+
+// REcursion exercise 3
+
+using System;
+class Recursion
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a number to calculate the sum of 1 to that number.");
+        int number = Convert.ToInt32(Console.ReadLine());
+        
+        Console.WriteLine("The sum of the numbers are: " + PrintSum(number));
+    }
+    static int PrintSum(int number)
+    {
+        if (number > 1)
+        {
+            return number + PrintSum(number - 1);
+        }
+        else
+        {
+            return 1;
+        }
+    }
+}
+
