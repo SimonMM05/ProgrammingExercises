@@ -147,7 +147,7 @@ public class Recursion
     public static void Main()
     {
         Console.WriteLine("This program prints the even and odd numbers from a range e.g. 1-20");
-        double n = Convert.ToDouble(Console.ReadLine());
+        int n = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine($"The even numbers are: ");
         PrintEven(n);
@@ -156,7 +156,7 @@ public class Recursion
         PrintOdd(n);
     }
 
-    public static void PrintEven(double n)
+    public static void PrintEven(int n)
     {
         if (n <= 0)
             return;
@@ -168,7 +168,7 @@ public class Recursion
 
         PrintEven(n - 1);
     }
-    public static void PrintOdd(double n)
+    public static void PrintOdd(int n)
     {
         if (n <= 0)
             return;
