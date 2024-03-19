@@ -59,7 +59,7 @@ class Recursion
 */
 
 
-// REcursion exercise 3
+/* REcursion exercise 3
 
 using System;
 class Recursion
@@ -83,4 +83,31 @@ class Recursion
         }
     }
 }
+*/
+
+// Recursion exercise 4: Write a program in C# Sharp to display the individual digits of a given number using recursion. 
+
+using System;
+
+public class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine("Write any number!");
+
+        int number = Convert.ToInt32(Console.ReadLine());
+        Recursion(number);
+    }
+
+    public static void Recursion(int i)
+    {
+        if (i >= 10)
+        {
+            Recursion(i/10);
+        }
+        Console.Write(i % 10 + " ");
+    }
+}
+
+
 
