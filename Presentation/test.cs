@@ -14,10 +14,9 @@ class nestedArray
 }
 */
 
-// Arrays exercise 1 - Write a C# Sharp program that stores elements in an array and prints them.
+/* Arrays exercise 1 - Write a C# Sharp program that stores elements in an array and prints them.
 
 using System;
-using System.Security.Cryptography.X509Certificates;
 
 class Arrays
 {
@@ -41,5 +40,5 @@ class Arrays
     }
 }
 
-
+*/
 

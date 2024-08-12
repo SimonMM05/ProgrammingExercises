@@ -138,7 +138,7 @@ public class Recursion
 }
 */
 
-// Recursion exercise 6: Write a program in C to print even or odd numbers in a given range using recursion.
+/* Recursion exercise 6: Write a program in C to print even or odd numbers in a given range using recursion.
 
 using System;
 
@@ -181,6 +181,6 @@ public class Recursion
         PrintOdd(n - 1);
     }
 }
-
+*/
 
 
